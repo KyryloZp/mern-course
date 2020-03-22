@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtCode": "123456789",
+  "mongoUri": "mongodb+srv://Teonas:teonas07@cluster0-le9ca.azure.mongodb.net/mernApp?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
